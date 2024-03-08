@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator.Arun</title>
+    <link rel="stylesheet" href="calculator.css" type="text/css">
+    <script src="calculator.js"></script>
+</head>
+
+<body>
+    <div class="layout"></div>
+    <div class="layout-calculator">
+        <div class="output">
+            <input type="text" id="screen">
+        </div>
+        <div class="row1">
+            <div><button onclick="clearall()" class="clearall">CLEAR ALL</button></div>
+            <div><button onclick="seven(7)" class="seven">7</button></div>
+            <div><button onclick="eight(8)" class="eghit">8</button></div>
+            <div><button onclick="nine(9)" class="nine">9</button></div>
+            <div><button onclick="division()" class="divide">/</button></div>
+        </div>
+        <div class="row2">
+            <div><button onclick="four(4)" class="four">4</button></div>
+            <div><button onclick="five(5)" class="five">5</button></div>
+            <div><button onclick="six(6)" class="six">6</button></div>
+            <div><button onclick="multiple()" class="multiplication">*</button></div>
+        </div>
+        <div class="row3">
+            <div><button onclick="one(1)" class="one">1</button></div>
+            <div><button onclick="two(2)" class="two">2</button></div>
+            <div><button onclick="three(3)" class="three">3</button></div>
+            <div><button onclick="minus()" class="minus">-</button></div>
+        </div>
+        <div class="row4">
+            <div><button onclick="buttonclick('.')" class="point">.</button></div>
+            <div><button onclick="buttonclick(0)" class="zero">0</button></div>
+            <div><button onclick="finalResult()" class="equal">=</button></div>
+            <div><button onclick="addition()" class="addition">+</button></div>
+        </div>
+    </div>
+</body>
+
+</html>

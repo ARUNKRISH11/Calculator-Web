@@ -1,0 +1,255 @@
+.layout-calculator {
+    width: 420px;
+    height: 560px;
+    background-color: rgb(10, 56, 124);
+    margin-left: 420px;
+
+}
+
+#screen {
+    width: 370px;
+    height: 60px;
+    margin: 20px;
+    pointer-events: none;
+
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 2px;
+    color: white;
+}
+
+.clearall {
+    height: 60px;
+    width: 330px;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.seven {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.eghit {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.nine {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.divide {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.four {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.five {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.six {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.multiplication {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.one {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.two {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.three {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.minus {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.point {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.zero {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.equal {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
+
+.addition {
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-color: white;
+    border: 0px;
+    color: white;
+}
